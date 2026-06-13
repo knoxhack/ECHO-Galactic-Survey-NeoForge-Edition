@@ -21,17 +21,6 @@
       "side": "both"
     },
     {
-      "id": "echoaddonapi",
-      "moduleId": "echoaddonapi",
-      "version": "0.1.0",
-      "artifactFamily": "neoforge",
-      "assetName": "echoaddonapi-0.1.0-neoforge.jar",
-      "artifactName": "echoaddonapi-0.1.0-neoforge.jar",
-      "path": "mods/echoaddonapi-0.1.0-neoforge.jar",
-      "required": true,
-      "side": "both"
-    },
-    {
       "id": "echoassetcore",
       "moduleId": "echoassetcore",
       "version": "1.0.0",
