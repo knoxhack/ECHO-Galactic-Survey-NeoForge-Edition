@@ -1,0 +1,44 @@
+{
+  "formatVersion": 2,
+  "pack": "galactic-survey-neoforge-edition",
+  "name": "Galactic Survey NeoForge Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "releasedAt": "2026-06-14T00:31:12.765Z",
+  "manifestAsset": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
+  "manifestSha256": "104772112af5a378d3cf3264735b6cd3187dd07abc1413eda73f2b7f0fc7cdfb",
+  "manifestSize": 29527,
+  "artifactMode": "zip",
+  "artifactAsset": "galactic-survey-neoforge-edition-0.1.0.zip",
+  "artifactSha256": "5bc57827604f11053f66d729e69e9df0d897772a8cb8faa6677a500484e694df",
+  "artifactSize": 4995,
+  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
+  "packs": [
+    {
+      "pack": "galactic-survey-neoforge-edition",
+      "name": "Galactic Survey NeoForge Edition",
+      "version": "0.1.0",
+      "channel": "alpha",
+      "manifestAsset": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
+      "artifactAsset": "galactic-survey-neoforge-edition-0.1.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "104772112af5a378d3cf3264735b6cd3187dd07abc1413eda73f2b7f0fc7cdfb",
+      "size": 29527
+    },
+    {
+      "name": "galactic-survey-neoforge-edition-0.1.0.zip",
+      "role": "pack-artifact",
+      "sha256": "5bc57827604f11053f66d729e69e9df0d897772a8cb8faa6677a500484e694df",
+      "size": 4995
+    }
+  ],
+  "notes": [
+    "Rebuilt galactic-survey-neoforge-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
+    "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
+  ]
+}
