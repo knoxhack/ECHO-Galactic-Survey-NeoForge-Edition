@@ -912,8 +912,8 @@
       }
     ]
   },
-  "artifactSha256": "c02664abe2994ab50974250467429c7e299d1b28df9536460aee189bc69c1b27",
-  "artifactSize": 75872775,
+  "artifactSha256": "3ed47297ffad46fce89b9de6390dcb7379051a7cb930605c7ca3067e1537dcf2",
+  "artifactSize": 144856725,
   "runtimeTarget": "neoforge",
   "id": "galactic-survey-neoforge-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Galactic-Survey-NeoForge-Edition/releases/download/galactic-survey-neoforge-0.1.0-alpha/galactic-survey-neoforge-edition-0.1.0.zip",
