@@ -6,12 +6,12 @@
   "channel": "alpha",
   "releasedAt": "2026-06-14T01:26:54.651Z",
   "manifestAsset": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "878dbe99eb2bbfe4dba92de3186e6dba336bd1f0f311719f8cc5d7d970c50f23",
-  "manifestSize": 29527,
+  "manifestSha256": "51c8684d8debe8363d443af97d9f9819f224bcfd3b373ae6cbc935ffbabe5e0b",
+  "manifestSize": 40827,
   "artifactMode": "zip",
   "artifactAsset": "galactic-survey-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "c02664abe2994ab50974250467429c7e299d1b28df9536460aee189bc69c1b27",
-  "artifactSize": 75872775,
+  "artifactSha256": "2bf07e5590c0136d6bd4a41ef56d23f7afc3ea7cc14970e9ba9a3a313a58afb7",
+  "artifactSize": 144920791,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,175 +27,301 @@
     {
       "name": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "878dbe99eb2bbfe4dba92de3186e6dba336bd1f0f311719f8cc5d7d970c50f23",
-      "size": 28291
+      "sha256": "51c8684d8debe8363d443af97d9f9819f224bcfd3b373ae6cbc935ffbabe5e0b",
+      "size": 40827
     },
     {
       "name": "galactic-survey-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "c02664abe2994ab50974250467429c7e299d1b28df9536460aee189bc69c1b27",
-      "size": 75872775
+      "sha256": "2bf07e5590c0136d6bd4a41ef56d23f7afc3ea7cc14970e9ba9a3a313a58afb7",
+      "size": 144920791
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
-      "sha256": "41fad7823687dea34df74220208b64a811642a0408a63db2eac1c937774a5582",
-      "size": 944432
+      "sha256": "ec8c4e2dbda2a14eea270d8f74aee95ae373978c422d4b0f61b5be20a1533bb0",
+      "size": 945091
     },
     {
-      "name": "echoaddonapi-0.1.0-neoforge.jar",
+      "name": "echoassetcore-1.0.0-neoforge.jar",
       "role": "pack-file",
-      "path": "mods/echoaddonapi-0.1.0-neoforge.jar",
-      "sha256": "6275d94e425bb79af7b4ce7680e9e65c9278186fa3e1b9b087ec820d5d9b05fe",
-      "size": 60505
+      "path": "mods/echoassetcore-1.0.0-neoforge.jar",
+      "sha256": "3bc6ff8dc17ed31ad878812e022e50ee977a4035e7fe6cc6e97860f25f88dccc",
+      "size": 45265
+    },
+    {
+      "name": "echoatmospherecore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoatmospherecore-1.0.0-neoforge.jar",
+      "sha256": "a5443d38d9b3e7044c61f32ffa2c6f0289f529f141adc83b5016a0a3e907ce44",
+      "size": 28674
+    },
+    {
+      "name": "echoblockworks-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoblockworks-1.0.0-neoforge.jar",
+      "sha256": "adcf05b11d15b997bb29851f81b8743cdf47135923928d4b92298afe752ce3a9",
+      "size": 1302372
+    },
+    {
+      "name": "echocameracore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echocameracore-1.0.0-neoforge.jar",
+      "sha256": "b0cc77d4f60398a23b6c9e4b215e730e8a6e7b1204759a1095e3e115b90ede06",
+      "size": 18136
+    },
+    {
+      "name": "echocommonloot-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echocommonloot-0.1.0-neoforge.jar",
+      "sha256": "9fda252499e97a3a8097f70bf4ee4b0abe7fcffd069de5fcb277cfc1674b8637",
+      "size": 7780
     },
     {
       "name": "echocontentcore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echocontentcore-1.0.0-neoforge.jar",
-      "sha256": "dd8e92a3d5e913261734a7141b433d2c5d556a9ad19df6ec437500b8bae8bdf1",
+      "sha256": "91f170feec79038a8db8d143a8b888b8e756e4e14427e13453fe688833c22ad4",
       "size": 33272
     },
     {
       "name": "echocore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echocore-1.0.0-neoforge.jar",
-      "sha256": "e4989e5087179d41362504faae6aa91e2d9064a17ca674c89671b2ad2920a891",
+      "sha256": "31115ba0e5e6a4533a809e62a1c612e8e67a1211af1c5102c1da2fe13f204d2d",
       "size": 368893
+    },
+    {
+      "name": "echocreatureroles-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echocreatureroles-0.1.0-neoforge.jar",
+      "sha256": "52146106f716ede0557c08a6a403317947b697708dcae722634fbeec4ffeb8ba",
+      "size": 7623
+    },
+    {
+      "name": "echofoundationcore-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echofoundationcore-0.1.0-neoforge.jar",
+      "sha256": "d738b627e35aa3227df500efc0aeba225f0115b110f6494cf04c4c58d3eb2b02",
+      "size": 10970
     },
     {
       "name": "echogalacticcore-0.1.0-native-alpha-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echogalacticcore-0.1.0-native-alpha-neoforge.jar",
-      "sha256": "cab700c3cb10c1564cf618280333f2af7ca028a3ba9639a1e112c430854dc7a4",
+      "sha256": "d8e3ee9b7d37abd4b3a54b62dd23c2020f5a4d6bd3346b319a024dbbde47668f",
       "size": 12074779
     },
     {
       "name": "echogalacticsurveyprotocol-0.1.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echogalacticsurveyprotocol-0.1.0-neoforge.jar",
-      "sha256": "e0b918a8d8336ee2944986e35e9a74658d7061b0db4a62cfde6e63788302d9fb",
+      "sha256": "2450cbbbb3a30421d1801a89ad2ef05f89056ac9f7b65b5f2200a8df6edf8cde",
       "size": 123112
     },
     {
       "name": "echoholomap-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoholomap-1.0.0-neoforge.jar",
-      "sha256": "361a9bd107c75cd5a3ca4cfef0606b018d0e0a4306158b439a2ea403d3347eac",
+      "sha256": "5a2079acf4051cbe835a23dba40a75339abe13baba8b9fa69efc16808fe39ca0",
       "size": 1496612
+    },
+    {
+      "name": "echohudcore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echohudcore-1.0.0-neoforge.jar",
+      "sha256": "42f1a8ae22330a97bdb11e2b36e88ad57c6ccd7cd4231e0993fbdd4f95433d2c",
+      "size": 46592
     },
     {
       "name": "echoindex-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoindex-1.0.0-neoforge.jar",
-      "sha256": "4ca2958b404d99bd2a5e8192c0c1ebd34b550489b74680a9bec7ff8344821b50",
+      "sha256": "5d67a90144e60a1d8aff85b472ac1217d7282197605b628203161544eaa4a183",
       "size": 586929
+    },
+    {
+      "name": "echoinputcore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoinputcore-1.0.0-neoforge.jar",
+      "sha256": "d13228863e516b94e9df9543f71e2619c33370ca429bd6295ca8bf839aca891a",
+      "size": 21460
     },
     {
       "name": "echolens-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echolens-1.0.0-neoforge.jar",
-      "sha256": "35e6f1c85988327e5ad2b32e6423dbe6bc71d5fd7d5e59914cc5ce527aaea0c6",
+      "sha256": "7fdf9e462af02733884bc2429971942d6de6fd7e22a0ee2d43aea386aa76781d",
       "size": 215164
     },
     {
       "name": "echologisticsnetwork-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echologisticsnetwork-1.0.0-neoforge.jar",
-      "sha256": "36e7630028d9f2b84f288876d8cc2b1214876099bb876a588755dce36585e52b",
+      "sha256": "5ab530c782c7d839c6d0165bcbab809641869b58f3e8bf5ad46b5ad008f84111",
       "size": 3672994
+    },
+    {
+      "name": "echomachinecore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echomachinecore-1.0.0-neoforge.jar",
+      "sha256": "223a1e0e6ad6c0b76aa47981646c3f9837ef28b3bc900b94487d9e567591dca4",
+      "size": 68655
+    },
+    {
+      "name": "echomaterialcore-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echomaterialcore-0.1.0-neoforge.jar",
+      "sha256": "a07b7937f905bb7290acd573a3b9f14feef0abd595991ab1f80e26da573bafcd",
+      "size": 13231
     },
     {
       "name": "echomissioncore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echomissioncore-1.0.0-neoforge.jar",
-      "sha256": "9d620636401df0855c6b54e2312de218f1973c8f5e170c2031fb0de8c30c1e22",
+      "sha256": "bd95757ba0c5c797858830c98bf9ba799c57293ebd35cd4edd4bef315622aa3b",
       "size": 103758
     },
     {
       "name": "echonetcore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echonetcore-1.0.0-neoforge.jar",
-      "sha256": "e29d75a80253b0b5d4d4e8051233e40e17985dc3cae6aa094d00c42aeb69be6b",
+      "sha256": "046e3082e458b3b62afe65ab978ce773e40e759a989124f534780e9c2685606a",
       "size": 68888
     },
     {
       "name": "echoorbitalremnants-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoorbitalremnants-1.0.0-neoforge.jar",
-      "sha256": "562d396229acf048d653452c370220afc032d98a4c4cf72c56c2b063709eb67c",
+      "sha256": "7d3a588f384b85e53311b9a1d5d9ac5f0c067ee81fce3b917705b62081b125ce",
       "size": 14483867
     },
     {
       "name": "echoplatformcore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoplatformcore-1.0.0-neoforge.jar",
-      "sha256": "1a7d0cf84f56272de183472286e1b76aa4eacb6911c1aba2b5af4632677f569d",
+      "sha256": "059c34555f1192db811c6fdaf7f4a87571c660038171f75430e0221c2ffcebaa",
       "size": 46638
+    },
+    {
+      "name": "echopowercore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echopowercore-1.0.0-neoforge.jar",
+      "sha256": "e0d648d8b845703e9b76e8cc6403a5ae48faff0500f0f3a140f63f831808dfa2",
+      "size": 23108
     },
     {
       "name": "echopowergrid-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echopowergrid-1.0.0-neoforge.jar",
-      "sha256": "c7e6d07c4ab1f547f133cb027b2acbedb44199ab08dfed32b9c2ed40a49fadb9",
+      "sha256": "13e09cbbd0b5404e5018acbb88ff23286b6ecf6b2816fca1683a2e69a34bc420",
       "size": 7185421
     },
     {
       "name": "echoprogressioncore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoprogressioncore-1.0.0-neoforge.jar",
-      "sha256": "5ac06c06f089035db2103120eb2fecc81345d0badfc19c356c381d2e5e25746b",
+      "sha256": "a6a977253e3562806a69a6a46439c80caafffa05183c8f1ae77b2f19d0ca2f77",
       "size": 46387
     },
     {
       "name": "echorecipecore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echorecipecore-1.0.0-neoforge.jar",
-      "sha256": "979954599b93cd8526c1a4ad9d5483e405fb80e812e01de52903bca265500221",
+      "sha256": "3cf7a289dd87e60076a07f5207eb4ca488b5ebdd2ec9d70a2bfec9a4ebda51f2",
       "size": 37919
     },
     {
       "name": "echoruntimeguard-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoruntimeguard-1.0.0-neoforge.jar",
-      "sha256": "6380ef0e48cdf203ed4e4e5a008344b83fdc101fe3b195824786aa10753c4433",
+      "sha256": "508fad959c88491dcaa45584c19adc174f5cc1b0b79845994c8e0ce51bf0f4db",
       "size": 127454
     },
     {
       "name": "echoschemacore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoschemacore-1.0.0-neoforge.jar",
-      "sha256": "a375a0a63de7c5b26a6bc4f970b50605bf7d4f3517efe0d18573ce9921a6bf87",
+      "sha256": "bf23e43e2a8ea0484d39465a5bdbe84465c662645f474bd0284fcf7a7b6e2e38",
       "size": 30708
+    },
+    {
+      "name": "echoscreencore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoscreencore-1.0.0-neoforge.jar",
+      "sha256": "47fd8248d3786cfe72574ad648d3aa1e2d809b2dc91b7f5511bbb7cdd0e5e359",
+      "size": 392464
     },
     {
       "name": "echosoundcore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echosoundcore-1.0.0-neoforge.jar",
-      "sha256": "9198fee27d8538263d73b3028467559b589ec0e056983bd89f3acb2225ba4c14",
+      "sha256": "0d71c4b03b643d84719fe673e79d5c793e9a835ca7d7405d405dd28891483ab9",
       "size": 11079852
+    },
+    {
+      "name": "echostationcore-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echostationcore-0.1.0-neoforge.jar",
+      "sha256": "9749ce968fa8722e98bd718f1e7d0d9ad7e5730fd0044cbb001dfbbbe8b63e14",
+      "size": 9178
     },
     {
       "name": "echoterminal-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoterminal-1.0.0-neoforge.jar",
-      "sha256": "cba00e09929f1e880379d8ca0df0a45878f10a896a4adf1d9f436705590f4bb4",
+      "sha256": "259f0da30fc641d1c95ec5e372dc2ca9b5c9fae9223715f630ef1c979f3aa224",
       "size": 22986198
+    },
+    {
+      "name": "echothemecore-1.3.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echothemecore-1.3.0-neoforge.jar",
+      "sha256": "01f98e0a52ab61f08530b976abc82ea3a658947b15af3ef5779f93f9389a756b",
+      "size": 69621179
+    },
+    {
+      "name": "echotoolcore-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echotoolcore-0.1.0-neoforge.jar",
+      "sha256": "ffba003385408e3a0e7f618a3da21074b7f25afed56816ad2fc73edf2df90f19",
+      "size": 8990
+    },
+    {
+      "name": "echotutorialcore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echotutorialcore-1.0.0-neoforge.jar",
+      "sha256": "a17c4ab33b9df3e5718b5e854aa45b10db928a0286fec32fcc961884971ccc66",
+      "size": 214981
     },
     {
       "name": "echovalidationcore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echovalidationcore-1.0.0-neoforge.jar",
-      "sha256": "5d84504b005f54ca2f042fcb2cf7fea4f85597755bf4dd43a0e31c2d0cc8792d",
+      "sha256": "b1efd0f32138c91cdac5758b73a067327822a959d8ad8e93bf36391105f1d9c0",
       "size": 42001
     },
     {
       "name": "echovehiclecore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echovehiclecore-1.0.0-neoforge.jar",
-      "sha256": "97e1b2cefad8cb5081b63afe9350135c0d5290967667d445a8c241fcb2f44f2a",
+      "sha256": "e3f94e4ed68b10b34df72bb548d9e4c3c225c4cc7e3513a4d490c171ec544902",
       "size": 21800
+    },
+    {
+      "name": "echoworldcore-1.0.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoworldcore-1.0.0-neoforge.jar",
+      "sha256": "1571dc08d4f94c9e0935cb491c85787b932cc1fcb0239f7cc47418aee39d03c2",
+      "size": 177332
+    },
+    {
+      "name": "echoworldstarter-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoworldstarter-0.1.0-neoforge.jar",
+      "sha256": "2e4cbe46cd3ccf3be4a3378c4d2467033c0d0e5e6771de0814be3489225dd10f",
+      "size": 10303
     }
   ],
   "notes": [
