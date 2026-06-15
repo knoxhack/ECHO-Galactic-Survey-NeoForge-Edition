@@ -6,12 +6,12 @@
   "channel": "alpha",
   "releasedAt": "2026-06-14T01:26:54.651Z",
   "manifestAsset": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "17bb782f8b33401a63c584aac2118166e6c01539cae28e10bee714ccab1de2c5",
-  "manifestSize": 52701,
+  "manifestSha256": "731618486872f4c383432ec5dc4121f150d09ef3567c242087f32a7f59576997",
+  "manifestSize": 82728,
   "artifactMode": "zip",
   "artifactAsset": "galactic-survey-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "a8ea2dc2dc4f0955a47f59c5f2a0c0a097657b946e378401e6926bf74acf415d",
-  "artifactSize": 145132583,
+  "artifactSha256": "a24a14e8911cbc02aaa539953e3118da8e85179512c1f4980ca4a8b0b54ce0ed",
+  "artifactSize": 145136587,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "galactic-survey-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "17bb782f8b33401a63c584aac2118166e6c01539cae28e10bee714ccab1de2c5",
-      "size": 52701
+      "sha256": "731618486872f4c383432ec5dc4121f150d09ef3567c242087f32a7f59576997",
+      "size": 82728
     },
     {
       "name": "galactic-survey-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "a8ea2dc2dc4f0955a47f59c5f2a0c0a097657b946e378401e6926bf74acf415d",
-      "size": 145132583
+      "sha256": "a24a14e8911cbc02aaa539953e3118da8e85179512c1f4980ca4a8b0b54ce0ed",
+      "size": 145136587
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
