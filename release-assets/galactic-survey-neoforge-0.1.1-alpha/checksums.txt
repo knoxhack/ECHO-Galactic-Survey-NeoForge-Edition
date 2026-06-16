@@ -1,4 +1,4 @@
-251884438d8060733cdccff9323988281ad3d28c85982a723ff98256e5a96e0e  echo-release.json
-c7e52a29e8fe8ece485652ca6586a462408e83e1da593798d28931daa6e7c124  galactic-survey-neoforge-edition-0.1.1.zip
-05849589a82a316740f87791705a3ab1847d67c653f6bcf6040411f8f2bd25ba  galactic-survey-neoforge-edition-alpha-0.1.1.pack.json
-d76d0fdab62024d8f94cf5c8ad7010f0b1aed23558ae4b76c255ddab5c687e0b  release-audit.json
+05bb09e94f0d1265e2421aa88c8b06dcb430d05d7cefbcc9efb36fc5a54be413  echo-release.json
+72430a36b0515593fac3d7e18a166377ffcc8319c8d5c8bfbb703d1927583382  galactic-survey-neoforge-edition-0.1.1.zip
+a83f786ac231eb3351833c0d69b72bd32259e27f3f219f039324d1356122c77b  galactic-survey-neoforge-edition-alpha-0.1.1.pack.json
+9bbcf8545f2461f3cc9b76ba9cdb8309a3dcb9e3b0896bd4955acd607da3a9bd  release-audit.json

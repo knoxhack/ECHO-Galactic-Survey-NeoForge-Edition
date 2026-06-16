@@ -5,20 +5,20 @@
   "name": "Galactic Survey NeoForge Edition",
   "version": "0.1.1",
   "channel": "alpha",
-  "moduleRelease": "release-index-current-module-artifacts-20260616",
-  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "moduleRelease": "modules-canonical-full-20260616",
+  "moduleSourceRevision": "ECHO-Modules modules-canonical-full-20260616 (9f25b667), 2026-06-16",
   "releaseTag": "galactic-survey-neoforge-0.1.1-alpha",
   "sourceRepo": "knoxhack/ECHO-Galactic-Survey-NeoForge-Edition",
   "moduleCount": 41,
   "artifact": {
     "name": "galactic-survey-neoforge-edition-0.1.1.zip",
-    "sha256": "c7e52a29e8fe8ece485652ca6586a462408e83e1da593798d28931daa6e7c124",
-    "size": 145248591
+    "sha256": "72430a36b0515593fac3d7e18a166377ffcc8319c8d5c8bfbb703d1927583382",
+    "size": 145245824
   },
   "manifest": {
     "name": "galactic-survey-neoforge-edition-alpha-0.1.1.pack.json",
-    "sha256": "05849589a82a316740f87791705a3ab1847d67c653f6bcf6040411f8f2bd25ba",
-    "size": 84772
+    "sha256": "a83f786ac231eb3351833c0d69b72bd32259e27f3f219f039324d1356122c77b",
+    "size": 83432
   },
-  "generatedAt": "2026-06-16T10:10:07.647Z"
+  "generatedAt": "2026-06-16T15:37:23.383Z"
 }
