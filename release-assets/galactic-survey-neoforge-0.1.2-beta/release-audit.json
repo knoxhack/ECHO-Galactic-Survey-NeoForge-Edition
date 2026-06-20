@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "galactic-survey-neoforge-edition",
+  "name": "Galactic Survey NeoForge Edition",
+  "version": "0.1.2",
+  "channel": "beta",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "releaseTag": "galactic-survey-neoforge-0.1.2-beta",
+  "sourceRepo": "knoxhack/ECHO-Galactic-Survey-NeoForge-Edition",
+  "moduleCount": 41,
+  "artifact": {
+    "name": "galactic-survey-neoforge-edition-0.1.2.zip",
+    "sha256": "643582fadd07720e972512d6090698febf505eaa5f3a592f8ea35f2753d11eb9",
+    "size": 145335986
+  },
+  "manifest": {
+    "name": "galactic-survey-neoforge-edition-beta-0.1.2.pack.json",
+    "sha256": "1ca2a53f50e61e3add6a786f98ef3946613626c4b7c9d798260033e53e982dd2",
+    "size": 83058
+  },
+  "generatedAt": "2026-06-20T04:41:41.620Z"
+}

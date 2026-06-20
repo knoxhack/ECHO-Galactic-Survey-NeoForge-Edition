@@ -1,0 +1,4 @@
+3a64f17d486a1099546eb5d658ab837aaaee0c37abc1d65cd89a095ece919744  echo-release.json
+643582fadd07720e972512d6090698febf505eaa5f3a592f8ea35f2753d11eb9  galactic-survey-neoforge-edition-0.1.2.zip
+1ca2a53f50e61e3add6a786f98ef3946613626c4b7c9d798260033e53e982dd2  galactic-survey-neoforge-edition-beta-0.1.2.pack.json
+2a0a0f79e882a02b67f2ef40ad985479871fa80dbb6df41bdab27c41b401c181  release-audit.json
